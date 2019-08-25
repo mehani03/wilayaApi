@@ -4,6 +4,8 @@ DESCRIPTION:
 [En] A database containing the Wilayas at Baladia (communes), Algeria. With all their data possible.<br>
 [Ar]  قاعدة بيانات تحتوي على الولايات و البلديات بالجزائر. مع كل البيانات الخاصة بهم
 
+consider this repository, it does the same but in a better appraoch
+https://github.com/Fcmam5/algeria-api
 
 
 THE HIRARCHY:
